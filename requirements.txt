@@ -1,0 +1,4 @@
+rethinkdb==2.3.0
+tweepy==3.6.0
+networkx==2.0
+nltk==3.2.5
